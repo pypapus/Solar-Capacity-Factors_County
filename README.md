@@ -139,7 +139,3 @@ eastern_interconnect_project/
 
 ---
 
-## License
-
-Feel free to include a license here (e.g. [MIT License](https://opensource.org/licenses/MIT)) or another open-source license of your choice. If this is for internal or private use, specify accordingly.
-
