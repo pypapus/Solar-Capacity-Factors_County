@@ -1,0 +1,5 @@
+county_shapefile/
+output/
+resourceData/
+*.bat
+*.ipynb
