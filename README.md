@@ -1,6 +1,6 @@
 # Eastern Counties Solar & Wind Capacity Factor Download
 
-This project contains a Python script, **`eastern_counties.py`**, which downloads hourly solar and wind resource data for **all counties in the Eastern Interconnect** (approximated by full states). It then uses **PySAM** to compute hourly capacity factors for each county. Two CSV files (one for solar, one for wind) are saved to an output folder.
+This project contains a Python script, **`eastern_cf.py`**, which downloads hourly solar and wind resource data for **all counties in the Eastern Interconnect** (approximated by full states). It then uses **PySAM** to compute hourly capacity factors for each county. Two CSV files (one for solar, one for wind) are saved to an output folder.
 
 ## Table of Contents
 1. [Features](#features)
